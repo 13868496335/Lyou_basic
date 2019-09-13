@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zjiet-travel-basics/zjiet-travel-basics.iml" filepath="$PROJECT_DIR$/zjiet-travel-basics/zjiet-travel-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjiet-travel-basics/zjiet-travel-basics-cloud-eureka/zjiet-travel-basics-cloud-eureka.iml" filepath="$PROJECT_DIR$/zjiet-travel-basics/zjiet-travel-basics-cloud-eureka/zjiet-travel-basics-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjiet-travel-entry-api/zjiet-travel-entry-api.iml" filepath="$PROJECT_DIR$/zjiet-travel-entry-api/zjiet-travel-entry-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjiet-travel-entry-api/zjiet-travel-entry-api-member/zjiet-travel-entry-api-member.iml" filepath="$PROJECT_DIR$/zjiet-travel-entry-api/zjiet-travel-entry-api-member/zjiet-travel-entry-api-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjiet-travel-entry-api/zjiet-travel-entry-api-weixin/zjiet-travel-entry-api-weixin.iml" filepath="$PROJECT_DIR$/zjiet-travel-entry-api/zjiet-travel-entry-api-weixin/zjiet-travel-entry-api-weixin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjiet-travel-parent.iml" filepath="$PROJECT_DIR$/zjiet-travel-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjiet-travel-service-api/zjiet-travel-service-api.iml" filepath="$PROJECT_DIR$/zjiet-travel-service-api/zjiet-travel-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjiet-travel-service-api/zjiet-travel-service-api-member/zjiet-travel-service-api-member.iml" filepath="$PROJECT_DIR$/zjiet-travel-service-api/zjiet-travel-service-api-member/zjiet-travel-service-api-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjiet-travel-service-api/zjiet-travel-service-api-weixin/zjiet-travel-service-api-weixin.iml" filepath="$PROJECT_DIR$/zjiet-travel-service-api/zjiet-travel-service-api-weixin/zjiet-travel-service-api-weixin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjiet-travel-service-imp/zjiet-travel-service-imp.iml" filepath="$PROJECT_DIR$/zjiet-travel-service-imp/zjiet-travel-service-imp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjiet-travel-service-imp/zjiet-travel-service-imp-member/zjiet-travel-service-imp-member.iml" filepath="$PROJECT_DIR$/zjiet-travel-service-imp/zjiet-travel-service-imp-member/zjiet-travel-service-imp-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zjiet-travel-service-imp/zjiet-travel-service-imp-weixin/zjiet-travel-service-imp-weixin.iml" filepath="$PROJECT_DIR$/zjiet-travel-service-imp/zjiet-travel-service-imp-weixin/zjiet-travel-service-imp-weixin.iml" />
+    </modules>
+  </component>
+</project>
